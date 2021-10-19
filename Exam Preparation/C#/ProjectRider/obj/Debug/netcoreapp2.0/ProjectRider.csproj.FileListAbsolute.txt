@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb
+C:\Users\Jorka\Desktop\SoftUni\JAVA&C# Ресурси\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.genruntimeconfig.cache
